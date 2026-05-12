@@ -1,36 +1,36 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Car Shop Project (Training Exercise)
 
-## Getting Started
+A web application for a car shop, built using **Next.js** and **JavaScript**, with **CSS** for styling. This project was developed as a training exercise, with contributions from **[Milad Azami](https://github.com/milad-azami)**.
 
-First, run the development server:
+## Tech Stack
+- Next.js
+- JavaScript
+- CSS
+- React
 
+## Description
+This is a responsive and user-friendly car shop platform created as a practical learning experience. The goal was to implement core features of a car listing website, focusing on a clean UI, a smooth user experience, and best practices in Next.js and JavaScript development.
+
+## Features
+- **Next.js Implementation:** Practical application of Next.js features like routing and component structure.
+- **JavaScript Core:** All functional logic is implemented using JavaScript.
+- **CSS Styling:** User interface styled with CSS.
+- **Responsive Design:** Adapts well to various screen sizes.
+- **Training Focus:** Designed as an educational project to practice and improve skills in modern web development.
+- **Collaboration:** Developed with contributions from [Milad Azami](https://github.com/milad-azami).
+
+## How to Run
+
+To get a local copy up and running, follow these steps.
+
+### Prerequisites
+- Node.js: [https://nodejs.org/](https://nodejs.org/)
+
+### Installation and Running
+1. Clone the repository:
 ```bash
-npm run dev
-# or
-yarn dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
-
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+   git clone https://github.com/MJavadSaeidian/Car-Shop.git
+   cd Car-Shop
+   npm install
+   npm run dev
+   
